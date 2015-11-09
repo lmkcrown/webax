@@ -56,7 +56,7 @@ $webax['header'] = <<<EOD
 <span class='siteslogan'>Reusable modules for PHP web development</span>
 EOD;
 $webax['footer'] = <<<EOD
-<footer><span class='sitefooter'>Copyright (c) Lars Magnusson (lm@mail.se) | <a href='https://github.com/'>Webax på GitHub</a> | <a href='http://validator.w3.org/unicorn/check?ucn_uri=referer&amp;ucn_task=conformance'>Unicorn</a></span></footer>
+<footer><span class='sitefooter'>Copyright (c) Lars Magnusson | <a href='https://github.com/lmkcrown/webax'>Webax på GitHub</a> | <a href='http://validator.w3.org/unicorn/check?ucn_uri=referer&amp;ucn_task=conformance'>Unicorn</a></span></footer>
 EOD;
 
 /**
